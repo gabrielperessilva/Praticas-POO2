@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sala
+comment1.params=c\ nome\ inimigo
+comment1.target=Sala(java.util.ArrayList,\ java.lang.String,\ Personagem)
+comment2.params=p
+comment2.target=void\ andar(Personagem)
+numComments=3

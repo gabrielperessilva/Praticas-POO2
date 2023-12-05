@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sala
+comment1.params=c\ nome
+comment1.target=Sala(java.util.ArrayList,\ java.lang.String)
+comment2.params=p
+comment2.target=void\ selecionarCaminho(Personagem)
+comment3.params=p
+comment3.target=void\ lutar(Personagem)
+comment4.params=p
+comment4.target=void\ jogar(Personagem)
+comment5.params=
+comment5.target=java.util.ArrayList\ getCaminhos()
+numComments=6

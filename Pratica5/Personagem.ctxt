@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Personagem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Personagem\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nome\ life\ dano
+comment1.target=Personagem(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=int\ getLife()
+comment4.params=
+comment4.target=int\ getDano()
+comment5.params=dano
+comment5.target=void\ tomaDano(int)
+numComments=6

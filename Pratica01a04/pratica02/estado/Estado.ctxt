@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Estado
+comment1.params=personagem
+comment1.target=Estado(pratica02.personagem.Personagem)
+comment10.params=
+comment10.target=void\ verificarEstado()
+comment2.params=
+comment2.target=pratica02.personagem.Personagem\ getPersonagem()
+comment3.params=
+comment3.target=void\ setLimites()
+comment4.params=
+comment4.target=double\ getLS()
+comment5.params=
+comment5.target=double\ getLI()
+comment6.params=limite
+comment6.target=void\ setLS(double)
+comment7.params=limite
+comment7.target=void\ setLI(double)
+comment8.params=atual\ porcentagem
+comment8.target=void\ perdeLife(double,\ double)
+comment9.params=atual\ porcentagem
+comment9.target=void\ ganhaLife(double,\ double)
+numComments=11

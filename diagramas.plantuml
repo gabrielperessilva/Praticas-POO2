@@ -1,0 +1,69 @@
+@startuml Pratica1
+
+    package comandos{
+
+        Interface Pulo{
+            +public void pular()
+        }
+
+        Class P_baixo implements Pulo{
+            +public void pular()
+        }
+
+        Class P_medio implements Pulo{
+            +public void pular()
+        }
+
+        Class P_alto implements Pulo{
+            +public void pular()
+        }
+
+        Interface Corre{
+            +public void correr()
+        }
+
+        Class C_devagar implements Corre{
+            +public void correr()
+        }
+
+        Class C_medio implements Corre{
+            +public void correr()
+        }
+
+        Class C_rapido implements Corre{
+            +public void correr()
+        }
+
+        Interface Ataque{
+            +public void atacar()
+        }
+
+        Class A_fraco implements Ataque{
+            +public void atacar()
+        }
+
+        Class A_medio implements Ataque{
+            +public void atacar()
+        }
+
+        Class A_forte implements Ataque{
+            +public void atacar()
+        }
+    }
+
+    package personagens{
+
+        Abstract Class Personagem{
+            +Pulo pulo
+            +Corre corre
+            +Ataque ataque
+        }
+
+        Class 
+        
+    }
+    
+    
+
+
+@enduml
